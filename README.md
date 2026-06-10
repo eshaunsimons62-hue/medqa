@@ -84,7 +84,7 @@ Deployed on Vercel — [https://medqa-nine.vercel.app/](https://medqa-nine.verce
 
 ---
 
-> **Note:** This is a portfolio and educational project. It is not a certified QMS tool and should not be used as the sole basis for regulatory submissions.
+
 
 ---
 
